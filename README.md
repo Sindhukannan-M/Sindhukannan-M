@@ -5,7 +5,7 @@
 I like asking **why** before jumping to **how**.  
 Whether it’s statistics, data analysis, or machine learning, I focus on understanding what’s happening **under the hood** and making sense of data that actually matters.
 
-### 🔹 What I specialize in
+### 🔹 I specialize in
 - Strong foundation in **statistics, probability, and data analysis**
 - **Data cleaning, exploration, and feature engineering** on real datasets
 - Building and understanding **machine learning models** 
