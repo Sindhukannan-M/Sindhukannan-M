@@ -38,5 +38,5 @@ Whether it’s statistics, data analysis, or machine learning, I focus on unders
 
 📌 Open to opportunities where I can apply my skills, grow through real problems, and contribute to impactful data-driven solutions
 
-I stay committed to keeping up with evolving trends in data science and understanding them in depth rather than at a surface level. This approach helps me adapt in a rapidly changing field and apply my skills thoughtfully when working on real-world problems and opportunities.
+I stay committed to keeping up with evolving trends in ML/AI and understanding them in depth rather than at a surface level. This approach helps me adapt in a rapidly changing field and apply my skills thoughtfully when working on real-world problems and opportunities.
 
